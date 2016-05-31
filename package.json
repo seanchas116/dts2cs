@@ -1,0 +1,11 @@
+{
+  "name": "dts2cs",
+  "version": "0.1.0",
+  "description": ".d.ts to C# wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
